@@ -30,4 +30,4 @@ Your Discord user ID. This is kept whenever you make a tag.
 
 Your Discord username. This is also kept whenever you make a tag.
 
-...That's it. That's all that's kept. These are kept permanently, even if you remove IQB or block it. You can request to have your tags removed at any time, should something go wrong with saving in the support server.
+...That's it. That's all that's kept. These are kept **for 30 days**, with the timer resetting every time a tag is recalled, even if you remove IQB or block it. You can request to have your tags removed at any time, should something go wrong with saving in the support server.
